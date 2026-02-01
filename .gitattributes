@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 blockout/Library/Bee/1900b0aE.dag.json eol=lf
+* txt eol=lf
 blockout/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp eol=lf
 blockout/Library/Bee/artifacts/1900b0aE.dag/PPv2URPConverters.rsp eol=lf
 blockout/Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp eol=lf
