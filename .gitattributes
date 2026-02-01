@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 blockout/Library/Bee/1900b0aE.dag.json eol=lf
+blockout/Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp-Editor.rsp
 * txt eol=lf
