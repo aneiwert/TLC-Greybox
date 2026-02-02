@@ -1,5 +1,4 @@
-git add
-Assets/Prefabs.meta
+git add <Assets/Prefabs.meta>
 	Assets/Prefabs/
 	Assets/Scenes/Gym.unity
 	Assets/Scenes/Gym.unity.meta
@@ -156,4 +155,3 @@ Assets/Prefabs.meta
 	Library/Bee/CachedNodeOutput/fe44b1c7fb9f3bd40aedc24c510ad87f_out
 	Library/StateCache/PrefabStageHierarchy/
 
-git add
