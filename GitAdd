@@ -1,4 +1,5 @@
-git add <Assets/Prefabs.meta>
+git add -A
+	Assets/Prefabs.meta
 	Assets/Prefabs/
 	Assets/Scenes/Gym.unity
 	Assets/Scenes/Gym.unity.meta
