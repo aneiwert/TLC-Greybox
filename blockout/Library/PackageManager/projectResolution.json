@@ -2,6 +2,7 @@
   "context": {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "projectPath": "C:/Users/loaner/Desktop/TLC-Greybox/blockout/Packages",
     "unityVersion": "6000.0.32f1"
   },
@@ -24,13 +25,25 @@
     "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Packages\\manifest.json",
     "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Packages\\packages-lock.json"
 >>>>>>> Stashed changes
+=======
+    "projectPath": "C:/Users/gabes/OneDrive/Documents/GitHub/TLC-Greybox/blockout/Packages",
+    "unityVersion": "6000.0.32f1"
+  },
+  "inputs": [
+    "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Packages\\manifest.json",
+    "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Packages\\packages-lock.json"
+>>>>>>> Stashed changes
   ],
   "outputs": {
     "com.unity.ai.navigation@2.0.5": {
       "name": "com.unity.ai.navigation",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ai.navigation",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ai.navigation",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ai.navigation",
 >>>>>>> Stashed changes
@@ -46,7 +59,11 @@
       "name": "com.unity.ide.rider",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.rider",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.rider",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.rider",
 >>>>>>> Stashed changes
@@ -62,7 +79,11 @@
       "name": "com.unity.ide.visualstudio",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.visualstudio",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.visualstudio",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ide.visualstudio",
 >>>>>>> Stashed changes
@@ -78,7 +99,11 @@
       "name": "com.unity.inputsystem",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.inputsystem",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.inputsystem",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.inputsystem",
 >>>>>>> Stashed changes
@@ -94,7 +119,11 @@
       "name": "com.unity.multiplayer.center",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.multiplayer.center",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.multiplayer.center",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.multiplayer.center",
 >>>>>>> Stashed changes
@@ -110,7 +139,11 @@
       "name": "com.unity.render-pipelines.universal",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal",
 >>>>>>> Stashed changes
@@ -126,7 +159,11 @@
       "name": "com.unity.test-framework",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework",
 >>>>>>> Stashed changes
@@ -142,7 +179,11 @@
       "name": "com.unity.timeline",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.timeline",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.timeline",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.timeline",
 >>>>>>> Stashed changes
@@ -158,7 +199,11 @@
       "name": "com.unity.ugui",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ugui",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ugui",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ugui",
 >>>>>>> Stashed changes
@@ -174,7 +219,11 @@
       "name": "com.unity.visualscripting",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.visualscripting",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.visualscripting",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.visualscripting",
 >>>>>>> Stashed changes
@@ -190,7 +239,11 @@
       "name": "com.unity.modules.accessibility",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.accessibility",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.accessibility",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.accessibility",
 >>>>>>> Stashed changes
@@ -204,7 +257,11 @@
       "name": "com.unity.modules.ai",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ai",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ai",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ai",
 >>>>>>> Stashed changes
@@ -218,7 +275,11 @@
       "name": "com.unity.modules.androidjni",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.androidjni",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.androidjni",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.androidjni",
 >>>>>>> Stashed changes
@@ -232,7 +293,11 @@
       "name": "com.unity.modules.animation",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.animation",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.animation",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.animation",
 >>>>>>> Stashed changes
@@ -246,7 +311,11 @@
       "name": "com.unity.modules.assetbundle",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.assetbundle",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.assetbundle",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.assetbundle",
 >>>>>>> Stashed changes
@@ -260,7 +329,11 @@
       "name": "com.unity.modules.audio",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.audio",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.audio",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.audio",
 >>>>>>> Stashed changes
@@ -274,7 +347,11 @@
       "name": "com.unity.modules.cloth",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.cloth",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.cloth",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.cloth",
 >>>>>>> Stashed changes
@@ -288,7 +365,11 @@
       "name": "com.unity.modules.director",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.director",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.director",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.director",
 >>>>>>> Stashed changes
@@ -302,7 +383,11 @@
       "name": "com.unity.modules.imageconversion",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imageconversion",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imageconversion",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imageconversion",
 >>>>>>> Stashed changes
@@ -316,7 +401,11 @@
       "name": "com.unity.modules.imgui",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imgui",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imgui",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.imgui",
 >>>>>>> Stashed changes
@@ -330,7 +419,11 @@
       "name": "com.unity.modules.jsonserialize",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.jsonserialize",
 >>>>>>> Stashed changes
@@ -344,7 +437,11 @@
       "name": "com.unity.modules.particlesystem",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.particlesystem",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.particlesystem",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.particlesystem",
 >>>>>>> Stashed changes
@@ -358,7 +455,11 @@
       "name": "com.unity.modules.physics",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics",
 >>>>>>> Stashed changes
@@ -372,7 +473,11 @@
       "name": "com.unity.modules.physics2d",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics2d",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics2d",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.physics2d",
 >>>>>>> Stashed changes
@@ -386,7 +491,11 @@
       "name": "com.unity.modules.screencapture",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.screencapture",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.screencapture",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.screencapture",
 >>>>>>> Stashed changes
@@ -400,7 +509,11 @@
       "name": "com.unity.modules.terrain",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrain",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrain",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrain",
 >>>>>>> Stashed changes
@@ -414,7 +527,11 @@
       "name": "com.unity.modules.terrainphysics",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.terrainphysics",
 >>>>>>> Stashed changes
@@ -428,7 +545,11 @@
       "name": "com.unity.modules.tilemap",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.tilemap",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.tilemap",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.tilemap",
 >>>>>>> Stashed changes
@@ -442,7 +563,11 @@
       "name": "com.unity.modules.ui",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ui",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ui",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.ui",
 >>>>>>> Stashed changes
@@ -456,7 +581,11 @@
       "name": "com.unity.modules.uielements",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.uielements",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.uielements",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.uielements",
 >>>>>>> Stashed changes
@@ -470,7 +599,11 @@
       "name": "com.unity.modules.umbra",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.umbra",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.umbra",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.umbra",
 >>>>>>> Stashed changes
@@ -484,7 +617,11 @@
       "name": "com.unity.modules.unityanalytics",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unityanalytics",
 >>>>>>> Stashed changes
@@ -498,7 +635,11 @@
       "name": "com.unity.modules.unitywebrequest",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
 >>>>>>> Stashed changes
@@ -512,7 +653,11 @@
       "name": "com.unity.modules.unitywebrequestassetbundle",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
 >>>>>>> Stashed changes
@@ -526,7 +671,11 @@
       "name": "com.unity.modules.unitywebrequestaudio",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
 >>>>>>> Stashed changes
@@ -540,7 +689,11 @@
       "name": "com.unity.modules.unitywebrequesttexture",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
 >>>>>>> Stashed changes
@@ -554,7 +707,11 @@
       "name": "com.unity.modules.unitywebrequestwww",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
 >>>>>>> Stashed changes
@@ -568,7 +725,11 @@
       "name": "com.unity.modules.vehicles",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vehicles",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vehicles",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vehicles",
 >>>>>>> Stashed changes
@@ -582,7 +743,11 @@
       "name": "com.unity.modules.video",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.video",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.video",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.video",
 >>>>>>> Stashed changes
@@ -596,7 +761,11 @@
       "name": "com.unity.modules.vr",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vr",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vr",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.vr",
 >>>>>>> Stashed changes
@@ -610,7 +779,11 @@
       "name": "com.unity.modules.wind",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.wind",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.wind",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.wind",
 >>>>>>> Stashed changes
@@ -624,7 +797,11 @@
       "name": "com.unity.modules.xr",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.xr",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.xr",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.xr",
 >>>>>>> Stashed changes
@@ -638,7 +815,11 @@
       "name": "com.unity.modules.subsystems",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.subsystems",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.subsystems",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.subsystems",
 >>>>>>> Stashed changes
@@ -652,7 +833,11 @@
       "name": "com.unity.modules.hierarchycore",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.modules.hierarchycore",
 >>>>>>> Stashed changes
@@ -666,7 +851,11 @@
       "name": "com.unity.ext.nunit",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ext.nunit",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ext.nunit",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ext.nunit",
 >>>>>>> Stashed changes
@@ -682,7 +871,11 @@
       "name": "com.unity.render-pipelines.core",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.core",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.core",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.core",
 >>>>>>> Stashed changes
@@ -698,7 +891,11 @@
       "name": "com.unity.shadergraph",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.shadergraph",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.shadergraph",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.shadergraph",
 >>>>>>> Stashed changes
@@ -714,7 +911,11 @@
       "name": "com.unity.render-pipelines.universal-config",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal-config",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal-config",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.render-pipelines.universal-config",
 >>>>>>> Stashed changes
@@ -730,7 +931,11 @@
       "name": "com.unity.searcher",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.searcher",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.searcher",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.searcher",
 >>>>>>> Stashed changes
@@ -746,7 +951,11 @@
       "name": "com.unity.burst",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.burst",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.burst",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.burst",
 >>>>>>> Stashed changes
@@ -762,7 +971,11 @@
       "name": "com.unity.mathematics",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.mathematics",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.mathematics",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.mathematics",
 >>>>>>> Stashed changes
@@ -778,7 +991,11 @@
       "name": "com.unity.collections",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.collections",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.collections",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.collections",
 >>>>>>> Stashed changes
@@ -794,7 +1011,11 @@
       "name": "com.unity.rendering.light-transport",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.rendering.light-transport",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.rendering.light-transport",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.rendering.light-transport",
 >>>>>>> Stashed changes
@@ -810,7 +1031,11 @@
       "name": "com.unity.nuget.mono-cecil",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
 >>>>>>> Stashed changes
@@ -826,7 +1051,11 @@
       "name": "com.unity.test-framework.performance",
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework.performance",
+=======
+      "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework.performance",
+>>>>>>> Stashed changes
 =======
       "resolvedPath": "C:\\Users\\gabes\\OneDrive\\Documents\\GitHub\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.test-framework.performance",
 >>>>>>> Stashed changes
