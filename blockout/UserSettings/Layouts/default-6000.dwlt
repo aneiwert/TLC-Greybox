@@ -22,11 +22,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_Title: Hierarchy
-=======
-  m_Title: Scene
->>>>>>> Stashed changes
 =======
   m_Title: Scene
 >>>>>>> Stashed changes
@@ -163,11 +159,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   controlID: 38
-=======
-  controlID: 52
->>>>>>> Stashed changes
 =======
   controlID: 52
 >>>>>>> Stashed changes
@@ -205,11 +197,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   controlID: 39
-=======
-  controlID: 53
->>>>>>> Stashed changes
 =======
   controlID: 53
 >>>>>>> Stashed changes
@@ -248,11 +236,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   controlID: 40
-=======
-  controlID: 54
->>>>>>> Stashed changes
 =======
   controlID: 54
 >>>>>>> Stashed changes
@@ -1138,15 +1122,9 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     m_Target: {x: -19.966887, y: 17.19, z: -34.83}
     speed: 2
     m_Value: {x: -19.966887, y: 17.19, z: -34.83}
-=======
-    m_Target: {x: 95.32, y: 15.95, z: 50.52}
-    speed: 2
-    m_Value: {x: 95.32, y: 15.95, z: 50.52}
->>>>>>> Stashed changes
 =======
     m_Target: {x: 95.32, y: 15.95, z: 50.52}
     speed: 2
@@ -1210,7 +1188,6 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
     m_Target: {x: -0.1413653, y: -0.647018, z: 0.12378966, w: -0.7390726}
     speed: 2
     m_Value: {x: 0.1413653, y: 0.64701796, z: -0.12378966, w: 0.7390726}
@@ -1218,15 +1195,6 @@ MonoBehaviour:
     m_Target: 27.514494
     speed: 2
     m_Value: 27.514494
-=======
-    m_Target: {x: 0.1424232, y: 0.47284195, z: -0.07707358, w: 0.86646044}
-    speed: 2
-    m_Value: {x: 0.14342259, y: 0.47261718, z: -0.07761978, w: 0.8660474}
-  m_Size:
-    m_Target: 123.17586
-    speed: 2
-    m_Value: 123.500046
->>>>>>> Stashed changes
 =======
     m_Target: {x: 0.1424232, y: 0.47284195, z: -0.07707358, w: 0.86646044}
     speed: 2
@@ -1412,11 +1380,7 @@ MonoBehaviour:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
   m_LastProjectPath: C:\Users\loaner\Desktop\TLC-Greybox\blockout
-=======
-  m_LastProjectPath: C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
->>>>>>> Stashed changes
 =======
   m_LastProjectPath: C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
 >>>>>>> Stashed changes
