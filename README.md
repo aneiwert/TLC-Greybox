@@ -45,7 +45,7 @@ _  Errors may be thrown at this point_
 
 _ IF ALL HAS GONE WELL..._
 
-  Each person now has a fully published branch! And if things run smoothly soon merge conflicts will be terminated >:)
+  **Each person now has a fully published branch! And if things run smoothly soon merge conflicts will be terminated >:)**
 
 
 ## Post Set-Up:
@@ -54,14 +54,14 @@ _ IF ALL HAS GONE WELL..._
 - 
 - **A pull request is** -  asking for a copy of your team members branch to toy around with on your own end, and if you communicate well enough you can get frequent updates that fix bugs with their code and yours
 -  
-- _**Each week (or more) there will be full merge with the main branch documented by everyone. This is so we have milestones to go back to.
+  **Each week (or more) there will be full merge with the main branch documented by everyone. This is so we have milestones to go back to**
 
-**_
+   
 ### Some notes if you are here: 
 In the end there need to be at least three stages of documentation saved from the project: 
 1. A - the very first version (what we have right now, very ooga booga)
-3. B - the middle version 
-4. C - final version
+3. B - the middle version (next two weeks, or after the next sprint, Week 7-8)
+4. C - final version (week 11 the very last version)
   
 
 
