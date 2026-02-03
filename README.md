@@ -2,8 +2,12 @@ Read this!
 Update Feb 02 2026! <<<One file to rule them all!>>>
 
 All contributers! Here is the protocall for this GitHub! \\RIGHT NEOW //
+
+
 First..
 How to solve our problems of Merge Conflicts and branches: 
+
+- Work only on your branch! No pushing to main until everyone is ready 
 
 - You want only ONE repository for your project on your computer! It cannot be on another cloud. Find and determine where that is and DO NOT TOUCH IT
   
