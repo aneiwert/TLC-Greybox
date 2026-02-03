@@ -58,9 +58,9 @@ _IF ALL HAS GONE WELL..._
 ## Post Set-Up:
   
 - **Download a pull from another person on the team you are working with** - If you want to see if certain things will work together, then you will have to work on different aspects. If you want to know certain code will not cause a merge conflict then you are going to have to compare your branches and communicate with other members.
-- 
+  
 - **A pull request is** -  asking for a copy of your team members branch to toy around with on your own end, and if you communicate well enough you can get frequent updates that fix bugs with their code and yours
--  
+   
   **Each week (or more) there will be full merge with the main branch documented by everyone. This is so we have milestones to go back to**
 
    
