@@ -26,21 +26,21 @@ How to solve our problems of Merge Conflicts and branches:
   * If you have multiple branches, there is an option to merge or "squash" them into one. Make sure your final branch is named "YourName_Branch" when it is done. 
 - Commit these changes on the GitHub Desktop (titled something like squash branch commit)
 
-** Errors may be thrown at this point
+**** Errors may be thrown at this point
   
   - Publish your branch! 
     - Commit your changes on the GitHub Desktop (title this something like publish branch commit)
       - Pull for changes, even tho this wont have happened yet, just to make sure all is clear
 - Push your commited changes to Github through the desktop app
 
-  Errors may be thrown at this point
+  ****Errors may be thrown at this point
 
-  Refresh time!
+_ _Refresh time!
 - Now everyone can see new branches on their list of branches if they refresh their repository.
 - Refresh GH website and see if your branch shows up on the list in the branch dropdown menu
 - Pull for any changes
 
-  IF ALL HAS GONE WELL...
+##  IF ALL HAS GONE WELL...
 
   Each person now has a fully published branch! And if things run smoothly soon merge conflicts will be terminated >:)
 
