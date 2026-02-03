@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 C:\Users\loaner\Desktop\TLC-Greybox\blockout
+=======
+C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
+>>>>>>> Stashed changes
