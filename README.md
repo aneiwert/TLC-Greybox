@@ -21,15 +21,18 @@ How to solve our problems of Merge Conflicts and branches:
  ## NEXT STEPS...
 
 - Go to the GitHub website
-  - Make a new branch titled "YourName_Branch" from the most recent main Branch.
-  - Open Github desktop. 
+  
+- Make a new branch titled "YourName_Branch" from the most recent main Branch.
+  
+- Open Github desktop.
+  
   * If you have multiple branches, there is an option to merge or "squash" them into one. Make sure your final branch is named "YourName_Branch" when it is done. 
 - Commit these changes on the GitHub Desktop (titled something like squash branch commit)
 
 _Errors may be thrown at this point_
   
-  - Publish your branch! 
-    - Commit your changes on the GitHub Desktop (title this something like publish branch commit)
+- Publish your branch! 
+- Commit your changes on the GitHub Desktop (title this something like publish branch commit)
       - Pull for changes, even tho this wont have happened yet, just to make sure all is clear
 - Push your commited changes to Github through the desktop app
 
