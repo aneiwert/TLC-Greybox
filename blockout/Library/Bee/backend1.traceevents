@@ -2,6 +2,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ,{ "pid":12345, "tid":0, "ts":1770078940272927, "dur":75, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1770078940273044, "dur":2303, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1770078940275365, "dur":1591, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
@@ -762,6 +763,8 @@
 ,{ "pid":12345, "tid":12, "ts":1770078940380005, "dur":70731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1770078940641596, "dur":1361, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -6532,6 +6535,9 @@
 ,{ "pid":12345, "tid":0, "ts":1769980235309924, "dur":19596, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

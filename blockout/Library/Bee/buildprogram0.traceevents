@@ -4,6 +4,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 { "pid": 35942, "tid": 1, "ts": 1770078941825520, "dur": 456196, "ph": "X", "name": "BuildProgram", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1770078941826434, "dur": 62780, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1770078942188634, "dur": 5160, "ph": "X", "name": "OutputData.Write", "args": {} },
@@ -12,6 +13,8 @@
 { "pid": 35942, "tid": 1, "ts": 1770078942288136, "dur": 1139, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": 1, "ts": 1770078942287718, "dur": 1827, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -25,6 +28,9 @@
 { "pid": 35942, "tid": 1, "ts": 1769651471507171, "dur": 3948, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
