@@ -71,7 +71,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1521.6
-    height: 745.60004
+    height: 745.6
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -116,7 +116,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 725.60004
+    y: 725.6
     width: 1521.6
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -140,11 +140,11 @@ MonoBehaviour:
     x: 0
     y: 36
     width: 1521.6
-    height: 689.60004
+    height: 689.6
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 43
+  controlID: 54
   draggingID: 0
 --- !u!114 &7
 MonoBehaviour:
@@ -166,11 +166,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1521.6
-    height: 689.60004
+    height: 689.6
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 44
+  controlID: 55
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 45
+  controlID: 56
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -270,7 +270,7 @@ MonoBehaviour:
     x: 0
     y: 528
     width: 1521.6
-    height: 161.60004
+    height: 161.59998
   m_MinSize: {x: 230, y: 276}
   m_MaxSize: {x: 10000, y: 10026}
   m_ActualView: {fileID: 15}
@@ -1125,7 +1125,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 160.10371
     speed: 2
-    m_Value: 153.20929
+    m_Value: 160.10371
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1195,9 +1195,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 1ea90000
+      m_SelectedIDs: 969e0000
       m_LastClickedID: 0
-      m_ExpandedIDs: ceedffff20fbffff
+      m_ExpandedIDs: 20fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1246,7 +1246,7 @@ MonoBehaviour:
     x: 7.2000003
     y: 652
     width: 1521.6
-    height: 135.60004
+    height: 135.59998
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1269,7 +1269,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1279,15 +1279,15 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 60
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: 60
   m_LastProjectPath: C:\Users\loaner\Desktop\TLC-Greybox\blockout
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 37.200012}
-    m_SelectedIDs: 84a80000
-    m_LastClickedID: 43140
+    m_SelectedIDs: b0a60000
+    m_LastClickedID: 42672
     m_ExpandedIDs: 00000000b0a6000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1345,7 +1345,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000028d0000b46500000c5a0000f86f000000000000c4c300004e670000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
