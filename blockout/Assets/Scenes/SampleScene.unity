@@ -953,18 +953,24 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3a4916ce5d0e7d04d9948a01e57002e9, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
       value: 0
 =======
       value: 15.95
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
       value: 15.95
 >>>>>>> Stashed changes
 =======
       value: 15.95
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3a4916ce5d0e7d04d9948a01e57002e9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1013,8 +1019,11 @@ Transform:
   m_PrefabInstance: {fileID: 378484699}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
@@ -1137,10 +1146,13 @@ MonoBehaviour:
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
   m_GameObject: {fileID: 396044942}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: -0, z: -0, w: 0.7071068}
@@ -1150,12 +1162,15 @@ MonoBehaviour:
   m_Children: []
   m_Father: {fileID: 1314994079}
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
 >>>>>>> Stashed changes
 --- !u!1001 &496497024
 PrefabInstance:
@@ -1580,18 +1595,24 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 3a4916ce5d0e7d04d9948a01e57002e9, type: 3}
       propertyPath: m_LocalPosition.y
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
       value: 0
 =======
       value: 15.95
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
       value: 15.95
 >>>>>>> Stashed changes
 =======
       value: 15.95
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 3a4916ce5d0e7d04d9948a01e57002e9, type: 3}
       propertyPath: m_LocalPosition.z

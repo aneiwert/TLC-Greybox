@@ -1,13 +1,19 @@
 <<<<<<< Updated upstream
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
 C:\Users\loaner\Desktop\TLC-Greybox\blockout
 =======
 C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
 >>>>>>> Stashed changes
+<<<<<<< HEAD
 =======
 C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
 >>>>>>> Stashed changes
 =======
 C:\Users\gabes\OneDrive\Documents\GitHub\TLC-Greybox\blockout
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of c2b1933b (gabe commit)
