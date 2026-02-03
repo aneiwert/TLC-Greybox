@@ -1,41 +1,10 @@
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
->>>>>>> parent of c2b1933b (gabe commit)
-{ "pid": 35942, "tid": 1, "ts": 1770078941825520, "dur": 456196, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078941826434, "dur": 62780, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078942188634, "dur": 5160, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078942193797, "dur": 87894, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078942195124, "dur": 64713, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078942288136, "dur": 1139, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1770078942287718, "dur": 1827, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> parent of c2b1933b (gabe commit)
-{ "pid": 35942, "tid": 1, "ts": 1769651470537736, "dur": 955695, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651470540273, "dur": 161267, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651471326629, "dur": 10799, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651471337436, "dur": 155976, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651471340070, "dur": 95473, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651471508467, "dur": 2214, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1769651471507171, "dur": 3948, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
-=======
->>>>>>> parent of c2b1933b (gabe commit)
->>>>>>> Stashed changes
+{ "pid": 35942, "tid": 1, "ts": 1770105069977350, "dur": 681953, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105069978656, "dur": 88758, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105070518915, "dur": 6667, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105070525588, "dur": 133690, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105070527807, "dur": 95438, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105070668534, "dur": 1647, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1770105070667746, "dur": 2834, "ph": "X", "name": "Write chrome-trace events", "args": {} },
