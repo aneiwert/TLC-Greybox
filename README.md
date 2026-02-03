@@ -1,10 +1,13 @@
-Read this!
-Update Feb 02 2026! <<<One file to rule them all!>>>
+# Read this!
+Update Feb 03 2026! 
+
+### <<<One file to rule them all!>>>
+
 
 All contributers! Here is the protocall for this GitHub! \\RIGHT NEOW //
 
 
-First..
+## First..
 How to solve our problems of Merge Conflicts and branches: 
 
 - Work only on your branch! No pushing to main until everyone is ready 
@@ -15,7 +18,7 @@ How to solve our problems of Merge Conflicts and branches:
   
 - Pull and Fetch Orgin before Pushing your file to the hub. PLEASE AND THANK YOU! <3 
 
-NEXT STEPS...
+ ## NEXT STEPS...
 
 - Go to the GitHub website
   - Make a new branch titled "YourName_Branch" from the most recent main Branch.
@@ -23,7 +26,7 @@ NEXT STEPS...
   * If you have multiple branches, there is an option to merge or "squash" them into one. Make sure your final branch is named "YourName_Branch" when it is done. 
 - Commit these changes on the GitHub Desktop (titled something like squash branch commit)
 
-  Errors may be thrown at this point
+** Errors may be thrown at this point
   
   - Publish your branch! 
     - Commit your changes on the GitHub Desktop (title this something like publish branch commit)
