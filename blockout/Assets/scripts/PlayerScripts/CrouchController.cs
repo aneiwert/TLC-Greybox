@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class CrouchController : MonoBehaviour
 {
-    public float CrouchHeight = 0.5f;
+    public float CrouchHeight = 1.0f;
     public float CrouchSmoothTime = 0.5f;
+    public GameObject player; 
+    public Vector3 m_StandingPosition;
+    public Vector3 m_CrouchingPosition;
 
-    Vector3 m_StandingPosition;
-    Vector3 m_CrouchingPosition;
-
-    Vector3 m_CurrentVelocity;
+    public Vector3 m_CurrentVelocity;
 
     void Start()
     {
-        m_StandingPosition = new Vector3(0.0f, 0.0f, 0.0f);
-        m_CrouchingPosition = new Vector3(0.0f, -1.0f, 0.0f);
+        m_StandingPosition = new Vector3(0.0f, 1.0f, 0.0f);
+        m_CrouchingPosition = new Vector3(0.0f, 0.2f, 0.0f);
     }
     
     void Awake()
@@ -24,8 +24,8 @@ public class CrouchController : MonoBehaviour
         m_StandingPosition = transform.transform.localPosition;
 
         // Move the Position down to Crouching Position 
-    // m_CrouchingPosition = transform.localPosition;
-       // m_CrouchingPosition = CrouchHeight;//
+    //m_CrouchingPosition = transform.localPosition;
+      // m_CrouchingPosition = CrouchHeight;
     }
     
     // Update is called once per frame
@@ -44,12 +44,5 @@ public class CrouchController : MonoBehaviour
             targetPosition = m_StandingPosition;
         } 
 
-        // Smoothly Moves camera toward position //
-        transform.localPosition = Vector3.SmoothDamp(
-            transform.localPosition,
-            targetPosition,
-            ref m_CurrentVelocity,
-            CrouchSmoothTime
-        );
     }
 }

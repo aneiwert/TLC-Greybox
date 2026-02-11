@@ -5,7 +5,7 @@ using UnityEngine;
 public class MouseCamLook : MonoBehaviour
 {
     [SerializeField]
-    public float sensitivity = 5.0f;
+    public float sensitivity = 3.0f;
     [SerializeField]
     public float smoothing = 2.0f;
     // Capsule is the Player //
