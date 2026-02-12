@@ -8,6 +8,14 @@
     "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Packages\\packages-lock.json"
   ],
   "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.2d.sprite",
+      "fingerprint": "6e37a90069af6bceba270d5e592cd6f3521c7a27",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
     "com.unity.ai.navigation@2.0.5": {
       "name": "com.unity.ai.navigation",
       "resolvedPath": "C:\\Users\\loaner\\Desktop\\TLC-Greybox\\blockout\\Library\\PackageCache\\com.unity.ai.navigation",
