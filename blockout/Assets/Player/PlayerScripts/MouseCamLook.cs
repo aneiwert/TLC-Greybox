@@ -24,7 +24,7 @@ public class MouseCamLook : MonoBehaviour
     // Update is called once per frame
     void Update() {
     // md is Mouse Delta // 
-        var md = new Vector2(Input.GetAxisRaw("Mouse X"), Input.GetAxisRaw("Mouse Y"));
+        var md = new Vector2(Input.GetAxisRaw("Mouse Y"), Input.GetAxisRaw("Mouse X"));
         md = Vector2.Scale(md, new Vector2(sensitivity * smoothing, sensitivity * smoothing));
         // the interpolated float result between two float values //
         smoothV.x = Mathf.Lerp(smoothV.x, md.x, 1f / smoothing);
@@ -33,7 +33,7 @@ public class MouseCamLook : MonoBehaviour
         mouseLook += smoothV;
 
         // Vector3.right is the X axis //
-        transform.localRotation = Quaternion.AngleAxis(-mouseLook.y, Vector3.right);
-        player.transform.localRotation = Quaternion.AngleAxis(mouseLook.x, player.transform.up);
+        transform.localRotation = Quaternion.AngleAxis(-mouseLook.x, Vector3.right);
+        player.transform.localRotation = Quaternion.AngleAxis(mouseLook.y, player.transform.up);
     }
 }

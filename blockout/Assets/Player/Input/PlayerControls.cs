@@ -26,7 +26,7 @@ namespace ANeiwert.FinalCharacterController
     ""name"": ""PlayerControls"",
     ""maps"": [
         {
-            ""name"": ""Player Locomotion Map"",
+            ""name"": ""PlayerLocomotionMap"",
             ""id"": ""f435bf43-97ec-4794-8d2b-b7dbd3988df0"",
             ""actions"": [
                 {
@@ -37,20 +37,18 @@ namespace ANeiwert.FinalCharacterController
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
+                },
+                {
+                    ""name"": ""Look"",
+                    ""type"": ""Value"",
+                    ""id"": ""90775a1d-e955-4d0d-9b63-b5047d09db55"",
+                    ""expectedControlType"": ""Vector2"",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": true
                 }
             ],
             ""bindings"": [
-                {
-                    ""name"": """",
-                    ""id"": ""52915ab4-7236-421f-a774-f0468f0f3da0"",
-                    ""path"": """",
-                    ""interactions"": """",
-                    ""processors"": """",
-                    ""groups"": """",
-                    ""action"": ""Movement"",
-                    ""isComposite"": false,
-                    ""isPartOfComposite"": false
-                },
                 {
                     ""name"": ""WASD"",
                     ""id"": ""0b37d0c0-e650-4deb-9eaa-fb35a95d5632"",
@@ -160,15 +158,27 @@ namespace ANeiwert.FinalCharacterController
                     ""action"": ""Movement"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""ac6e9d94-38df-44fc-a631-801562db9348"",
+                    ""path"": ""<Mouse>/delta"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""Look"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
     ],
     ""controlSchemes"": []
 }");
-            // Player Locomotion Map
-            m_PlayerLocomotionMap = asset.FindActionMap("Player Locomotion Map", throwIfNotFound: true);
+            // PlayerLocomotionMap
+            m_PlayerLocomotionMap = asset.FindActionMap("PlayerLocomotionMap", throwIfNotFound: true);
             m_PlayerLocomotionMap_Movement = m_PlayerLocomotionMap.FindAction("Movement", throwIfNotFound: true);
+            m_PlayerLocomotionMap_Look = m_PlayerLocomotionMap.FindAction("Look", throwIfNotFound: true);
         }
 
         ~@PlayerControls()
@@ -232,15 +242,17 @@ namespace ANeiwert.FinalCharacterController
             return asset.FindBinding(bindingMask, out action);
         }
 
-        // Player Locomotion Map
+        // PlayerLocomotionMap
         private readonly InputActionMap m_PlayerLocomotionMap;
         private List<IPlayerLocomotionMapActions> m_PlayerLocomotionMapActionsCallbackInterfaces = new List<IPlayerLocomotionMapActions>();
         private readonly InputAction m_PlayerLocomotionMap_Movement;
+        private readonly InputAction m_PlayerLocomotionMap_Look;
         public struct PlayerLocomotionMapActions
         {
             private @PlayerControls m_Wrapper;
             public PlayerLocomotionMapActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
             public InputAction @Movement => m_Wrapper.m_PlayerLocomotionMap_Movement;
+            public InputAction @Look => m_Wrapper.m_PlayerLocomotionMap_Look;
             public InputActionMap Get() { return m_Wrapper.m_PlayerLocomotionMap; }
             public void Enable() { Get().Enable(); }
             public void Disable() { Get().Disable(); }
@@ -253,6 +265,9 @@ namespace ANeiwert.FinalCharacterController
                 @Movement.started += instance.OnMovement;
                 @Movement.performed += instance.OnMovement;
                 @Movement.canceled += instance.OnMovement;
+                @Look.started += instance.OnLook;
+                @Look.performed += instance.OnLook;
+                @Look.canceled += instance.OnLook;
             }
 
             private void UnregisterCallbacks(IPlayerLocomotionMapActions instance)
@@ -260,6 +275,9 @@ namespace ANeiwert.FinalCharacterController
                 @Movement.started -= instance.OnMovement;
                 @Movement.performed -= instance.OnMovement;
                 @Movement.canceled -= instance.OnMovement;
+                @Look.started -= instance.OnLook;
+                @Look.performed -= instance.OnLook;
+                @Look.canceled -= instance.OnLook;
             }
 
             public void RemoveCallbacks(IPlayerLocomotionMapActions instance)
@@ -280,6 +298,7 @@ namespace ANeiwert.FinalCharacterController
         public interface IPlayerLocomotionMapActions
         {
             void OnMovement(InputAction.CallbackContext context);
+            void OnLook(InputAction.CallbackContext context);
         }
     }
 }
