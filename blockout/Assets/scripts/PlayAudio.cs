@@ -4,34 +4,45 @@ using UnityEngine;
 using UnityEngine.InputSystem; 
 
 //Alex Neiwert
+
+public enum SoundType
+{
+Footsteps,
+Click,
+
+Menu,
+
+Null
+
+}
+
+[RequireComponent(typeof(AudioSource))]
 public class PlayAudio : MonoBehaviour
 {
-    public AudioSource audioSource; 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-         if(Input.GetKeyDown(KeyCode.W))//if WASD is pressed down player makes 
-     {
-      audioSource.Play(); 
-        
-    }
-      if(Input.GetKeyDown(KeyCode.A))//if WASD is pressed down player makes sound
-    {
-      audioSource.Play(); 
-        
-    }
-        else
-        {
-            Debug.Log("Fart"); 
-        }
-   }
-    }
+  [SerializeField] private AudioClip[] soundList; 
+  private static PlayAudio instance; 
+  private AudioSource audioSource; 
+  private void Awake()
+  {
+    instance = this; 
+  }
+
+  private void Start()
+  {
+    audioSource = GetComponent<AudioSource>();
+  }
+
+  public static void PlaySound(SoundType sound, float volume = 1)
+  {
+    instance.audioSource.PlayOneShot(instance.soundList[(int)sound], volume); 
+  }
+   public static void CancelSound(SoundType sound, float volume = 1)
+  {
+    instance.audioSource.PlayOneShot(instance.soundList[(int)sound], volume); 
+  }
+}
+    
 
 
 
