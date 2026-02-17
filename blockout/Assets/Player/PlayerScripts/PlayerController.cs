@@ -19,7 +19,6 @@ public class PlayerController : MonoBehaviour
     public float runSpeed = 4f; 
     public float drag = 0.1f; 
 
-
     [Header("Camera Settings")]
     public float lookSenseH = 0.1f; 
     public float lookSenseV = 0.1f; 
@@ -50,7 +49,8 @@ public class PlayerController : MonoBehaviour
         newVelocity = Vector3.ClampMagnitude(newVelocity, runSpeed);
         //Move Character only once per frame 
         _characterController.Move(newVelocity * Time.deltaTime); 
-        
+         
+    
         
         }
 
@@ -66,8 +66,7 @@ public class PlayerController : MonoBehaviour
 
 
         }
-
-
+   
 }
 
 }
