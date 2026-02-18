@@ -32,7 +32,9 @@ namespace ANeiwert.FinalCharacterController
     public void OnMovement(InputAction.CallbackContext context)
     {
         MovementInput = context.ReadValue<Vector2>(); 
+        CheckMovement(); 
         print(MovementInput);
+        
     }
 
     public void OnLook(InputAction.CallbackContext context)
@@ -40,6 +42,28 @@ namespace ANeiwert.FinalCharacterController
            LookInput = context.ReadValue<Vector2>(); 
 
         }
+ public void CheckMovement()
+        {
+            if (Input.GetKeyDown(KeyCode.W))
+            {
+                 bool success = true; 
+                  if(success)PlayAudio.PlaySound(SoundType.Footsteps); 
+                 if(success)Debug.Log("Y!");   
+            }
+             
+            
+           if (Input.GetKeyUp(KeyCode.W))
+            {
+            
+               bool success = true;
+               if(success)PlayAudio.CancelSound(SoundType.Null);
+                 if(success)Debug.Log("X!");
+            
+           }
+        
+        }
+
+
 }
 
 }
