@@ -1,0 +1,45 @@
+apiRules:
+  - exclude:
+      hasAttribute:
+        uid: System.ComponentModel.EditorBrowsableAttribute
+        ctorArguments:
+          - System.ComponentModel.EditorBrowsableState.Never
+  - exclude:
+      # Exclude namespaces ending with "Samples"
+      uidRegex: ^.*\.Samples$
+  - exclude:
+      # Exclude namespaces ending with "Samples.Editor"
+      uidRegex: ^.*\.Samples\.Editor$
+  - exclude:
+      # Exclude namespaces ending with "Tests"
+      uidRegex: ^.*\.Tests$
+  - exclude:
+      # Exclude namespaces ending with "Tests.Editor"
+      uidRegex: ^.*\.Tests\.Editor$
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.UnityAssetType$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.AssetManagerPreviewer$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.AssetStatusAction$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.UnityEditorApplicationFocusUtils$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.PopupContainer$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.ProjectEnabler$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.RoleChip$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.ServiceInjectionAttribute$
+      type: Type
+  - exclude:
+      uidRegex: ^Unity\.AssetManager\.Editor\.TaskUtils$
+      type: Type

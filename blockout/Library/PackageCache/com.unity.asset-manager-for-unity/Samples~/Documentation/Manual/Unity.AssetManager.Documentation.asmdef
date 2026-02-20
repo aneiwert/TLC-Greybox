@@ -1,0 +1,22 @@
+{
+  "name": "Unity.AssetManager.Documentation",
+  "rootNamespace": "Unity.AssetManager.Documentation",
+  "references": [
+    "GUID:be84db630555247d9af995fd801633db",
+    "GUID:180b84aeaa9c9da4a8ad1f35cd75a700",
+    "GUID:e50c451ab0b790f4d9aa0d14794e2633"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "!UC_EXCLUDE_SAMPLES"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

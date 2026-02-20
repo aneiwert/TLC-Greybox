@@ -14,6 +14,16 @@ namespace ANeiwert.FinalCharacterController
     public PlayerControls PlayerControls { get; private set;}
     public Vector2 MovementInput { get; private set;}
     public Vector2 LookInput { get; private set;}
+
+    void Start()
+        {
+            
+        }
+    void Update()
+
+        {
+            CheckMovement(); 
+        }
     private void OnEnable()
     {
         PlayerControls = new PlayerControls(); 
@@ -48,16 +58,32 @@ namespace ANeiwert.FinalCharacterController
             {
                  bool success = true; 
                   if(success)PlayAudio.PlaySound(SoundType.Footsteps); 
-                 if(success)Debug.Log("Y!");   
+                 if(success)Debug.Log("Forward!");   
+            }
+             if (Input.GetKeyDown(KeyCode.A))
+            {
+                 bool success = true; 
+                  if(success)PlayAudio.PlaySound(SoundType.Footsteps); 
+                 if(success)Debug.Log("Left!");   
             }
              
             
-           if (Input.GetKeyUp(KeyCode.W))
+           if (Input.GetKeyUp(KeyCode.S))
             {
             
                bool success = true;
                if(success)PlayAudio.CancelSound(SoundType.Null);
-                 if(success)Debug.Log("X!");
+                 if(success)Debug.Log("Back!");
+            
+           }
+           
+              
+           if (Input.GetKeyUp(KeyCode.D))
+            {
+            
+               bool success = true;
+               if(success)PlayAudio.CancelSound(SoundType.Null);
+                 if(success)Debug.Log("Right!");
             
            }
         

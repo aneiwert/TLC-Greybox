@@ -1,0 +1,38 @@
+{
+  "name": "com.unity.asset-manager-for-unity",
+  "displayName": "Asset Manager",
+  "version": "1.9.1",
+  "unity": "2022.3",
+  "description": "Asset Manager for Unity is an In-Editor tool that allows you to easily browse, upload and import assets between the Unity Editor and Unity Cloud.\n\nTo open the Asset Manager for Unity window once the package is installed, go to the top left menu bar, select <b>Window > Asset Manager</b>.",
+  "keywords": [
+    "asset",
+    "packages",
+    "preview",
+    "management",
+    "versioning",
+    "pipeline",
+    "library"
+  ],
+  "dependencies": {
+    "com.unity.settings-manager": "2.0.1",
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "relatedPackages": {
+    "com.unity.asset-manager-for-unity.tests": "1.9.1"
+  },
+  "_upm": {
+    "changelog": "[Fixed]\n- Reduce occurence of the TooManyRequestsException exception.\n\n[Removed]\n- Temporarily disable the feature \"Grey-out empty projects in the In Project tab\" until performance impact is reduced."
+  },
+  "upmCi": {
+    "footprint": "7807e24b587e044414c481bf2583307a32137d8c"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.asset-manager-for-unity@1.9/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.asset-manager-for-unity.git",
+    "type": "git",
+    "revision": "5811c5a6ba5c09cdd6ed696e02f81d7084b2fccc"
+  },
+  "_fingerprint": "77b886928d7706d8ebc39f56f4c16d6341233070"
+}
