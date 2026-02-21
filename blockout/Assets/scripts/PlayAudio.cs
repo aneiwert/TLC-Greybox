@@ -37,10 +37,12 @@ public class PlayAudio : MonoBehaviour
   {
     instance.audioSource.PlayOneShot(instance.soundList[(int)sound], volume); 
   }
-   public static void CancelSound(SoundType sound, float volume = 1)
+  public static void StopAudio()
   {
-    instance.audioSource.PlayOneShot(instance.soundList[(int)sound], volume); 
+    instance.audioSource.Stop(); 
   }
+  
+  
 }
     
 
