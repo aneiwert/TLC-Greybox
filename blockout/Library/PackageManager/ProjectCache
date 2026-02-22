@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639064528299947702
+      ticks: 639073995109389648
     m_Hash: 4088917200
   m_LockFileStatus:
     m_FilePath: C:/Users/loaner/OneDrive/Desktop/TLC-Greybox/blockout/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639064528299947702
+      ticks: 639073995109409631
     m_Hash: 1415432770
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -137,6 +137,7 @@ m_ResolvedPackages:
     - 2.0.8
     - 2.0.9
     - 2.0.10
+    - 2.0.11
     compatible:
     - 2.0.5
     - 2.0.6
@@ -144,7 +145,8 @@ m_ResolvedPackages:
     - 2.0.8
     - 2.0.9
     - 2.0.10
-    recommended: 2.0.10
+    - 2.0.11
+    recommended: 2.0.11
     deprecated: []
   dependencies:
   - name: com.unity.modules.ai
