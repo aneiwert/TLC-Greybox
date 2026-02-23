@@ -1,0 +1,28 @@
+{
+  "name": "com.unity.cloud.common",
+  "version": "1.3.0",
+  "displayName": "Unity Cloud Common",
+  "description": "Unity Cloud Common provides functionalities needed by the Unity Cloud SDKs.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0"
+  },
+  "relatedPackages": {
+    "com.unity.cloud.common.tests": "1.3.0"
+  },
+  "_upm": {
+    "changelog": "### Added\n- Added support for new ID: `AssetLibraryId`.\n\n### Fixed\n- Fixed silent error when stream canceled before the download completes.\n- Fixed task hang when there is a connection error with the server.\n- Fixed `SingleReaderSingleWriterNativeStream` throwing an exception when a `ReadAsync` is canceled.\n- Dispose of HttpResponseMessage."
+  },
+  "upmCi": {
+    "footprint": "7053b207cb734a26c0105f03e32f83cf7245adea"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.cloud.common@1.3/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/digital-twins-sdk.git",
+    "type": "git",
+    "revision": "0d38e91bd4d373dd7b22d325dc244a95b0c81278"
+  },
+  "_fingerprint": "64659993c787c383e8b4a46f525ed0535c083c64"
+}
