@@ -14,7 +14,7 @@ public class InteractionController : MonoBehaviour
     [SerializeField]
     float interactionDistance = 5f;
 
-    IInteractable currentTargetedInteractable;
+    currentTargetedInteractable;
 
     public void Update ()
     {
