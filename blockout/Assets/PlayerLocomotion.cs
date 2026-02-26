@@ -21,7 +21,7 @@ namespace ANeiwert.FinalCharacterController
     public PlayerControls PlayerControls { get; private set;}
     public Vector2 MovementInput { get; private set;}
     public Vector2 LookInput { get; private set;}
-
+    
     void Start()
         {
            
@@ -135,6 +135,16 @@ namespace ANeiwert.FinalCharacterController
 
                 Camera.transform.position = normalHeight.transform.position; 
                
+            }
+
+
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                bool Input = true; 
+            }
+            if (Input.GetKeyUp(KeyCode.E))
+            {
+                bool Input = false; 
             }
         }
 
