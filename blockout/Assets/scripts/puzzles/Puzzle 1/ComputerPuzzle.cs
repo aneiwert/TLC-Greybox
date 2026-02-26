@@ -3,7 +3,7 @@ using TMPro;
 using UnityEngine.UI;   
 using UnityEngine.InputSystem;
 
-public class ComputerPuzzle : MonoBehaviour, IInteractable
+public class ComputerPuzzle : MonoBehaviour
 {
     // Can make a specialized interact message for the object
     [SerializeField]

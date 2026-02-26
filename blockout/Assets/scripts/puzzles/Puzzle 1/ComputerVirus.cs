@@ -2,12 +2,11 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.UI; 
 
-public class ComputerVirus : MonoBehaviour, IInteractable
+public class ComputerVirus : MonoBehaviour
 {
     public string InteractMessage => objectInteractMessage; 
 
     public Material Blue;
-
     public Material Red;
     
     [SerializeField]
