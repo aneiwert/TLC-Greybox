@@ -9,6 +9,9 @@ public class OpenBook : MonoBehaviour, IInteractable
 
     [SerializeField]
     GameObject spawnPrefab; 
+    
+    [SerializeField]
+    GameObject spawner; 
 
 
     [SerializeField]
@@ -16,7 +19,8 @@ public class OpenBook : MonoBehaviour, IInteractable
 
     void Spawn()
     {
-        
+        Instantiate(spawnPrefab, spawner.transform.position, Quaternion.identity);
+        Debug.Log("Spawn");
     }
 
     public void Interact()
