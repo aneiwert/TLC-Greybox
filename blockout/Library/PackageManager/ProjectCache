@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639075596720221802
+      ticks: 639077001554424169
     m_Hash: 2428134435
   m_LockFileStatus:
     m_FilePath: C:/Users/loaner/Desktop/TLC-Greybox/blockout/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 639075596720283988
+      ticks: 639077001554522644
     m_Hash: 4082583469
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -1508,12 +1508,14 @@ m_ResolvedPackages:
     - 1.8.8
     - 1.8.9
     - 1.8.10
+    - 1.8.11
     compatible:
     - 1.8.7
     - 1.8.8
     - 1.8.9
     - 1.8.10
-    recommended: 1.8.10
+    - 1.8.11
+    recommended: 1.8.11
     deprecated: []
   dependencies:
   - name: com.unity.modules.audio

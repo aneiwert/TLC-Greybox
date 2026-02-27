@@ -127,6 +127,7 @@
 -define:ENABLE_LEGACY_INPUT_MANAGER
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER
+-define:UNITY_POST_PROCESSING_STACK_V2
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
 -r:"C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Managed/UnityEngine/UnityEditor.AccessibilityModule.dll"
@@ -445,10 +446,12 @@
 "Assets/Player/PlayerScripts/PlayerController.cs"
 "Assets/PlayerLocomotion.cs"
 "Assets/scripts/MenuManager.cs"
-"Assets/scripts/PlayScripts/InteractScript.cs"
+"Assets/scripts/PlayScripts/OpenBook.cs"
 "Assets/scripts/PlayScripts/PlayAudio.cs"
 "Assets/scripts/puzzles/Puzzle 1/ComputerPuzzle.cs"
 "Assets/scripts/puzzles/Puzzle 1/ComputerVirus.cs"
+"Assets/scripts/puzzles/Puzzle 1/IInteractable.cs"
+"Assets/scripts/puzzles/Puzzle 1/InteractionController.cs"
 "Assets/Settings/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/Settings/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/Settings/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

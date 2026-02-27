@@ -21,7 +21,7 @@ namespace ANeiwert.FinalCharacterController
     public PlayerControls PlayerControls { get; private set;}
     public Vector2 MovementInput { get; private set;}
     public Vector2 LookInput { get; private set;}
-
+    
     void Start()
         {
            
@@ -62,7 +62,7 @@ namespace ANeiwert.FinalCharacterController
         }
  public void CheckMovement()
         {
-
+//Notes YES the input here is IF statements, but that kinda turns into for loops pretty well and can be optimized later.
             //W
             if (Input.GetKeyDown(KeyCode.W))
             {
@@ -135,6 +135,16 @@ namespace ANeiwert.FinalCharacterController
 
                 Camera.transform.position = normalHeight.transform.position; 
                
+            }
+        // Input X 
+
+            if (Input.GetKeyDown(KeyCode.X))
+            {
+                bool Input = true; 
+            }
+            if (Input.GetKeyUp(KeyCode.X))
+            {
+                bool Input = false; 
             }
         }
 
