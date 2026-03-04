@@ -136,16 +136,7 @@ namespace ANeiwert.FinalCharacterController
                 Camera.transform.position = normalHeight.transform.position; 
                
             }
-        // Input X 
-
-            if (Input.GetKeyDown(KeyCode.X))
-            {
-                bool Input = true; 
-            }
-            if (Input.GetKeyUp(KeyCode.X))
-            {
-                bool Input = false; 
-            }
+       
         }
 
 
