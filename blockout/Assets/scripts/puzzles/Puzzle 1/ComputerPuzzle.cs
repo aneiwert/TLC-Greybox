@@ -32,7 +32,7 @@ public class ComputerPuzzle : MonoBehaviour, IInteractable
 
     public void Update()
     {
-        if(Input.GetKeyDown(KeyCode.E))
+        if(Input.GetKeyDown(KeyCode.X))
         {
         Interact();
         currentComputer++;
