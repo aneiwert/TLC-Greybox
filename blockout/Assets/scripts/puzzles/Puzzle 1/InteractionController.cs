@@ -57,10 +57,6 @@ public class InteractionController : MonoBehaviour
         {
             currentTargetedInteractable.Interact();
         }
-          // If the player presses E, player interacts with object.
-        if (Input.GetKeyDown(KeyCode.E) && currentTargetedInteractable != null)
-        {
-            currentTargetedInteractable.Interact();
-        }
+        
     }
 }
