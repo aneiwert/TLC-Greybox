@@ -11446,6 +11446,68 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1332969600}
   m_CullTransparentMesh: 1
+--- !u!1001 &1346521676
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1367019138}
+    m_Modifications:
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.961151
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0548959
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -67
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071071
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071065
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339387209339060376, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_Name
+      value: desk (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+--- !u!4 &1346521677 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+  m_PrefabInstance: {fileID: 1346521676}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1351466409
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11798,6 +11860,8 @@ Transform:
   - {fileID: 1910672312}
   - {fileID: 1085889254}
   - {fileID: 352641576}
+  - {fileID: 1346521677}
+  - {fileID: 1861159109}
   - {fileID: 1083087130}
   - {fileID: 963711847}
   - {fileID: 421256011}
@@ -14857,6 +14921,68 @@ Canvas:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4128508144896889644, guid: d606c02a095ed03439719ba47e0c3033, type: 3}
   m_PrefabInstance: {fileID: 552950795}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1861159108
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1367019138}
+    m_Modifications:
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -12.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0548959
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -54.795563
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.000000029802315
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4339387209339060376, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+      propertyPath: m_Name
+      value: desk (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+--- !u!4 &1861159109 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3995617565622082082, guid: 23b5a5c0cc7e99a4fa02044f8daafd99, type: 3}
+  m_PrefabInstance: {fileID: 1861159108}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1864644581 stripped
 Transform:
