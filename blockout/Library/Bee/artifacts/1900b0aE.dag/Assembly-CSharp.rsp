@@ -444,6 +444,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Player/Input/PlayerControls.cs"
 "Assets/Player/PlayerScripts/PlayerController.cs"
+"Assets/Player/Prefab/player hand/grab_anim.cs"
 "Assets/PlayerLocomotion.cs"
 "Assets/scripts/MenuManager.cs"
 "Assets/scripts/MouseBehaviour.cs"
