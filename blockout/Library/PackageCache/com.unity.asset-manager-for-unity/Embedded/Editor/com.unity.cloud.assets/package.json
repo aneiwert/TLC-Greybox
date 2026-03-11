@@ -1,0 +1,48 @@
+{
+  "name": "com.unity.cloud.assets",
+  "version": "1.10.0",
+  "displayName": "Unity Cloud Assets",
+  "description": "Unity Cloud Assets makes it easy to discover, create, update, delete, and manage Unity assets through the Assets service interface.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.unity.cloud.common": "1.3.0"
+  },
+  "relatedPackages": {
+    "com.unity.cloud.assets.tests": "1.10.0"
+  },
+  "_upm": {
+    "changelog": "### Added\n- Added `FieldName` to `GroupableFieldValue` to know the name of the grouped field when doing group queries.\n- Added `VcsMappingId` in the `IDataset` properties.\n- Added `IAsset.QueryUpdateHistory` and `IAsset.GetUpdateHistoryAsync` to query and access the `AssetUpdateHistory` of an asset.\n- Added `IAsset.UpdateAsync(int, CancellationToken)` to update an asset back to a previous version.\n- Added `IDataset.QueryUpdateHistory` and `IDataset.GetUpdateHistoryAsync` to query and access the `DatasetUpdateHistory` of a dataset.\n- Added `IDataset.UpdateAsync(int, CancellationToken)` to update a dataset back to a previous version.\n- Added `IFile.QueryUpdateHistory` and `IFile.GetUpdateHistoryAsync` to query and access the `FileUpdateHistory` of a file.\n- Added `IFile.UpdateAsync(int, CancellationToken)` to update a file back to a previous version.\n\n### Changed\n- Documentation updates.\n- Built-in workflows updated to latest versions.\n\n### Fixed\n- Fixed group queries causing an exception when grouping with only one field.\n- Fixed issue when uploading files with `\\` path separators.\n- Improved file content re-upload.\n\n### Removed\n- Removed Http client rate limiter to instead rely on the exponential backoff retry.\n\n### Deprecated\n- `AssetSearchCriteria.SourceProjectId` is not supported for asset searches. Use `IAssetProject.QueryAssets` to search for assets within a specific project."
+  },
+  "upmCi": {
+    "footprint": "8bba027427f444cfd649c6d9e89b2ff92eb4da93"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.cloud.assets@1.10/manual/index.html",
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/digital-twins-sdk.git",
+    "type": "git",
+    "revision": "bc909eea40b68a0c8eed767602336937f7c604c9"
+  },
+  "samples": [
+    {
+      "displayName": "Asset Discovery",
+      "description": "Search for published assets.",
+      "path": "Samples~/AssetDiscovery"
+    },
+    {
+      "displayName": "Asset Management",
+      "description": "Sample project demonstrating how to use the Asset Manager service.",
+      "path": "Samples~/AssetManager"
+    },
+    {
+      "displayName": "Asset Collection Management",
+      "description": "Manage the asset collections in a project.",
+      "path": "Samples~/CollectionManagement"
+    },
+    {
+      "displayName": "Metadata Management",
+      "description": "Define and manage the field definitions of an organization.",
+      "path": "Samples~/MetadataManagement"
+    }
+  ],
+  "_fingerprint": "4d725e71374acda7c1b4d67b10092a36ba5227fd"
+}
