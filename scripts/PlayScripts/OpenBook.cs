@@ -1,0 +1,43 @@
+using UnityEngine;
+using TMPro;
+using UnityEngine.UI;   
+using UnityEngine.InputSystem;
+public class OpenBook : MonoBehaviour, IInteractable
+{
+    
+    public string InteractMessage => objectInteractMessage; 
+
+    [SerializeField]
+    GameObject spawnPrefab; 
+    
+    [SerializeField]
+    GameObject spawner; 
+
+
+    [SerializeField]
+    string objectInteractMessage; 
+
+    void Spawn()
+    {
+        Instantiate(spawnPrefab, spawner.transform.position, Quaternion.identity);
+        Debug.Log("Spawn");
+    }
+
+    public void Interact()
+    {
+        Spawn();
+    }
+
+
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
