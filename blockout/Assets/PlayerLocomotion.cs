@@ -62,7 +62,11 @@ namespace ANeiwert.FinalCharacterController
         }
  public void CheckMovement()
         {
-//Notes YES the input here is IF statements, but that kinda turns into for loops pretty well and can be optimized later.
+
+
+        if (!MenuManager.gameIsPaused)//Pause Manager 
+        {
+
             //W
             if (Input.GetKeyDown(KeyCode.W))
             {
@@ -138,8 +142,12 @@ namespace ANeiwert.FinalCharacterController
             }
        
         }
+        else{
+            
+        }
 
-
+        }
+        
 }
 
 }

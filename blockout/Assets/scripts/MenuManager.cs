@@ -8,6 +8,7 @@ public class MenuManager : MonoBehaviour
 {
 
     public GameObject pauseMenu; 
+    public static bool gameIsPaused; 
     
     void Update()
     {

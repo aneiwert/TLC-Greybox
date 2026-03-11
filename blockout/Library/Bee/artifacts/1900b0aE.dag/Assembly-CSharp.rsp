@@ -446,6 +446,7 @@
 "Assets/Player/PlayerScripts/PlayerController.cs"
 "Assets/PlayerLocomotion.cs"
 "Assets/scripts/MenuManager.cs"
+"Assets/scripts/MouseBehaviour.cs"
 "Assets/scripts/PlayScripts/OpenBook.cs"
 "Assets/scripts/PlayScripts/PlayAudio.cs"
 "Assets/scripts/puzzles/Puzzle 1/ComputerPuzzle.cs"
