@@ -5,7 +5,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639086248020845326
+=======
+      ticks: 639088054348329946
+>>>>>>> Stashed changes
     m_Hash: 692566278
   m_LockFileStatus:
     m_FilePath: C:/Users/loaner/Desktop/TLC-Greybox/blockout/Packages/packages-lock.json
@@ -13,7 +17,11 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 639086248020845326
+=======
+      ticks: 639088054348340005
+>>>>>>> Stashed changes
     m_Hash: 2840137022
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
