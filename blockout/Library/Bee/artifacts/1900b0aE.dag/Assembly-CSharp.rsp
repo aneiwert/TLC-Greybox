@@ -442,6 +442,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Animations/alarmboxAnim.cs"
+"Assets/Animations/handAnim/grabanim.cs"
 "Assets/Player/Input/PlayerControls.cs"
 "Assets/Player/PlayerScripts/PlayerController.cs"
 "Assets/PlayerLocomotion.cs"
