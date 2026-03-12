@@ -17,10 +17,10 @@ public class MenuManager : MonoBehaviour
             }
     }
 
-
+    // Checks to see if Pause menu is true or not, if it is true Escape quits out of menu.
     public void PauseMenu()
     {
-       pauseMenu.SetActive(true);  
+       pauseMenu.SetActive(!pauseMenu.activeSelf);  
        
 
        Debug.Log("Pause"); 
@@ -35,7 +35,7 @@ public void PlayGame()
         
     }
 
-
+// Quits out of Application, NOT the editor
 public void QuitGame()
     {
         Debug.Log("QUIT!");
