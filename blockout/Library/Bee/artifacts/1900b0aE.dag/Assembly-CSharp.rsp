@@ -450,6 +450,8 @@
 "Assets/scripts/MenuManager.cs"
 "Assets/scripts/PlayScripts/OpenBook.cs"
 "Assets/scripts/PlayScripts/PlayAudio.cs"
+"Assets/scripts/puzzles/alarm box/AlarmBox.cs"
+"Assets/scripts/puzzles/alarm box/AlarmCode.cs"
 "Assets/scripts/puzzles/Puzzle 1/ComputerPuzzle.cs"
 "Assets/scripts/puzzles/Puzzle 1/IInteractable.cs"
 "Assets/scripts/puzzles/Puzzle 1/InteractionController.cs"
