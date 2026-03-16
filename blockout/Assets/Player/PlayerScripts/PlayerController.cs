@@ -26,9 +26,10 @@ public class PlayerController : MonoBehaviour
     private PlayerLocomotion _playerLocomotion; 
     private Vector2 _cameraRotation = Vector2.zero;
     private Vector2 _playerTargetRotation = Vector2.zero; 
-    private void Awake()
+    private void Start()
         {
            _playerLocomotion = GetComponent<PlayerLocomotion>(); 
+            Time.timeScale = 1.0f;
         }
 
     private void Update()
@@ -62,9 +63,9 @@ public class PlayerController : MonoBehaviour
             _playerTargetRotation.x += transform.eulerAngles.x + _playerLocomotion.LookInput.x; 
             transform.rotation = Quaternion.Euler(0f, _playerTargetRotation.x, 0f); 
            
-           _playerCamera.transform.rotation = Quaternion.Euler(_cameraRotation.y, _cameraRotation.x, 0f); 
+           _playerCamera.transform.rotation = Quaternion.Euler(_cameraRotation.y, _cameraRotation.x, 0f);
 
-
+            //Debug.Log(Time.timeScale);
         }
 
     

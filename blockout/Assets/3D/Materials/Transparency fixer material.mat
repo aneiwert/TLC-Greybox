@@ -22,9 +22,12 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Transparency fixer material
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 2100000, guid: a2062199e435c4e47aa21f58c0c2e32e, type: 2}
-  m_ModifiedSerializedProperties: 8
-  m_ValidKeywords: []
+  m_Parent: {fileID: 2100000, guid: f7a2bdc79015d6f4f8cf2b9b67573534, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _METALLICSPECGLOSSMAP
+  - _NORMALMAP
+  - _PARALLAXMAP
   m_InvalidKeywords:
   - _GLOSSYREFLECTIONS_OFF
   m_LightmapFlags: 4
@@ -40,12 +43,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Ints: []
-    m_Floats:
-    - _Cull: 2
-    - _Glossiness: 0.5
-    - _WorkflowMode: 1
-    m_Colors:
-    - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    m_Floats: []
+    m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1

@@ -64,6 +64,9 @@ public class ComputerPuzzle : MonoBehaviour, IInteractable
                 computer5.GetComponent<MeshRenderer>().material.color = Color.red;
                 computer4.GetComponent<MeshRenderer>().material.color = Color.blue;
                 break;
+            case 6:
+                computer5.GetComponent<MeshRenderer>().material.color = Color.blue;
+                break;
         }
     }
 
